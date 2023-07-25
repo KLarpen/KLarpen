@@ -1,8 +1,4 @@
 # Rates
 
-- Development
-- Consulting
-- Code review
-- Talks
-- Educational programs
-- etc.
+- Development $3K+/mo. or $25+/hour  
+- Consulting $30/hour
