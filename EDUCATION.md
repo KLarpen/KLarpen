@@ -2,6 +2,7 @@
 
 - [Metatech University](https://github.com/metatech-university): Node.js 2022-2023 Course
 - [MDN](https://developer.mozilla.org/en-US/)
+- [Refactoring.guru](https://refactoring.guru/uk)
 - [Metarhia](https://metarhia.com/) free educational program
 - [freeCodeCamp](https://www.freecodecamp.org/): [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/fcc129c64d7-be97-45ce-aac7-94bf49f609c8/javascript-algorithms-and-data-structures) (_note: the course was used as a refresher because that time I had already used JavaScript at work_)
 - Agile/Scrum, training by Scrummaster.com.ua (nowadays reformed into [AgileDrive](https://www.agiledrive.io/uk/own/scrummaster))
