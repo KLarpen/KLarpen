@@ -1,5 +1,5 @@
 <code>⚪ Community: Metarhia</code>
-<code>👷 Specialty: Software engineer / Full-stack (Backend primary) /  System Architect</code><br>
+<code>👷 Specialty: Software Engineer / Full stack (Backend primary) /  System Architect</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🎓 [Education](EDUCATION.md)</code>
@@ -8,10 +8,9 @@
 ### 🧑‍💻 Programming Languages
 - current <code> JavaScript, TypeScript</code>
 - legacy <code>Pascal, Turbo Pascal in Delphi, PHP</code>
-- limited experience <code>C# for Unity Engine, Python</code>
+- limited experience <code>C# for Unity Engine</code>
 - part knowledge only <code>Python</code>
 - interest to learn <code>Rust</code> (e.g. for embedded systems)
-<br>
 
 ### 📦 Tech Stack
 
@@ -35,7 +34,6 @@
 - past experience <code>FTP(S) to hosting, SSH to VPS, Apache httpd, Bitbucket</code>
 - upcoming <code>AWS, Traeffic, Istio, Linkerd</code>
 
-<br><br>
 <code>GitLab: [@KLarpen](https://gitlab.com/KLarpen)</code>
 <code>💬 telegram: [@KLarpen](https://t.me/KLarpen)</code>
 <code>💬 LinkedIn: [Vladyslav Karpenko](https://www.linkedin.com/in/klarpen/)</code>

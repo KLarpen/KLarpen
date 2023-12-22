@@ -1,7 +1,7 @@
 # List of projects
 
 ## 360ReviewVR
-#### Founder, Full Stack Software Developer
+#### Founder, Full Stack Software Engineer, System architect
 ##### October 2016 - February 2018
 
 Development of the working prototype for own startup project. 360ReviewVR — is a version control system for 360˚ video production. It intended to be delivered using SaaS (Software as a Service) business model. 
@@ -40,7 +40,7 @@ The system prototype provides:
 - Project presentations to the potential customers.
 
 ## Lehkomobile (orig. «Легкомобіль»)
-#### Founder: Web Developer, Marketer, SMM, Analyst, Copywriter, Consultant etc.
+#### Founder: Web Developer, System architect, Marketer, SMM, Business Analyst, Copywriter etc.
 ##### June 2015 - June 2016
 
 Promoting an environment-friendly transport. Service for electric car owners (startup).
@@ -58,7 +58,7 @@ Promoting an environment-friendly transport. Service for electric car owners (st
   - MVP modelling (destructuring of the features from backlog with highest priority and expected traction from early adopters),
   - tech, infrastructure & business requirements,
   - financial estimations and planning due to possible architecture decisions.
-- Bitrix24 CRM system integration.
+- CRM system integration.
 - Marketing result analysis and advertising campaign correction.
 - Copywriting & image design.
 - Content-management of the project’s Facebook page (SMM).
