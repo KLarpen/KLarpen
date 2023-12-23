@@ -3,7 +3,8 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🎓 [Education](EDUCATION.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+<code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
+<code>👀 [About my philosophy](ABOUT.md)</code><br>
 
 ### 🧑‍💻 Programming Languages
 - current <code> JavaScript, TypeScript</code>
