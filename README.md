@@ -17,10 +17,11 @@
 
 #### Backend
 - current <code>Node.js, Loopback 4, OAS, Postman</code>
-- upcoming <code>Metarhia stack, Prisma, Knex, Fastify</code>
+- upcoming <code>Metarhia stack, Prisma, Knex, BullMQ, Fastify, RabbitMQ</code>
 
 #### Databases
 - current <code>PostgreSQL, Redis</code>
+- upcoming <code>Kafka, MinIO, AWS S3</code>
 - past experience <code>MySQL</code>
 - part knowledge only <code>MongoDB</code>
 
