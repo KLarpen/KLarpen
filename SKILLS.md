@@ -47,7 +47,7 @@
 | 🟩 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
 | 🟩 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟩 Asynchronous programming    | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | 🟩 FRP (Functional-reactive)   | 🟩 Interface          | 🟩 Generator         |                          |
 | 🟩 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
@@ -61,19 +61,19 @@
 
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
 |------------------------|--------------------------------|---------------------|--------------------------|
-| 🟩 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | ⬜ Async composition     |
+| 🟩 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | 🟩 Async composition     |
 | 🟩 Error-first         | 🟩 setImmediate                | 🟩 Async error      | ⬜ Rx.js                 |
-| 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | 🟦 Sequential async      |
-| 🟩 Async function      | 🟩 AbortController             | 🟩 Non-blocking     | 🟦 Parallel async        |
+| 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | 🟩 Sequential async      |
+| 🟩 Async function      | 🟩 AbortController             | 🟩 Non-blocking     | 🟩 Parallel async        |
 | 🟩 await               | 🟩 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Promise.all           |
-| 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.allSettled    | 
+| 🟩 Generator           | 🟩 Promise double resolve      | 🟩 Pattern Reactor  | 🟩 Promise.allSettled    | 
 | 🟩 Async Generator     | 🟩 child_process               | 🟩 CAS operations   | 🟩 Promise.race          |
-| 🟩 Async Iterator      | 🟩 worker_threads              | ⬜ epoll            | 🟩 Promise.any           |
-| 🟩 Thenable            | 🟩 Atomics                     | ⬜ kqueue           | ⬜ Web Locks API         |
-| 🟩 EventEmitter        | 🟩 Blocking operations         | ⬜ Completion ports | ⬜ Async Pool            | 
-| ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | 🟩 Thread Pool           |
-| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | 🟩 callbackify           |
-| 🟦 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟩 promisify             |
+| 🟩 Async Iterator      | 🟩 worker_threads              | 🟩 epoll            | 🟩 Promise.any           |
+| 🟩 Thenable            | 🟩 Atomics                     | ⬜ kqueue           | 🟩 Web Locks API         |
+| 🟩 EventEmitter        | 🟩 Blocking operations         | ⬜ Completion ports | 🟩 Async Pool            | 
+| 🟩 Cancelable callback | 🟩 Non-blocking loop for Array | ⬜ Event ports      | 🟩 Thread Pool           |
+| 🟩 Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | 🟩 callbackify           |
+| 🟩 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟩 promisify             |
 | 🟩 Future              | 🟩 Promise hell                | 🟩 Dead locks       | 🟩 IPC                   | 
 | ⬜ Deferred            |                                | 🟩 Live locks       | 🟩 Channel API           |
 | 🟩 Observer            |                                | 🟩 Actor Model      | 🟩 Revealing Constructor |
@@ -97,10 +97,10 @@
 | 🟩 node_modules      | 🟦 GoF for JS and Node.js    | 🟩 RPC            | 🟦 Inspector     |                      |
 | 🟩 package.json      | 🟩 Distributed systems       | 🟩 Routing        | 🟩 Reliability   |                      |
 | 🟩 vm isolation      | ⬜ Highload applications     | 🟩 IP sticky      | 🟩 Quality       |                      |
-| 🟦 command line args | 🟩 DDD                       | 🟩 DoS            | 🟩 Availability  |                      |
+| 🟩 command line args | 🟩 DDD                       | 🟩 DoS            | 🟩 Availability  |                      |
 | ⬜ Node.js CLI       | 🟩 Clean architecture        | 🟩 DDoS           | 🟩 Flexibility   |                      |
 | 🟩 Streams           | 🟩 Domain in the middle      | 🟩 XSS            |                  |                      |
-| 🟦 Clustering        | 🟩 Message Queue             | 🟩 Path traversal |                  |                      |
+| 🟩 Clustering        | 🟩 Message Queue             | 🟩 Path traversal |                  |                      |
 | 🟩 Load balancing    | 🟩 Transport-agnostic server | 🟩 CSRF           |                  |                      |
 | ⬜ Serverless clouds | 🟩 Framework-agnostic app    | 🟩 DNS            |                  |                      |
 | ⬜ FaaS clouds       | ⬜ Interactive applications  | 🟩 Fetch          |                  |                      |
