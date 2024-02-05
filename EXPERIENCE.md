@@ -9,7 +9,7 @@
 ## Commercial timeline
 
 ### April 2020 - December 2023, Full Stack Software Engineer, System Architect, Project Lead
-Working as contractor on development of the internal corporate IT system for the company under NDA. The system consists of backend service (`TypeScript`, `Node.js`, `Loopback 4`, `PostgreSQL`, `Redis`) and Progressive Web App built as SPA (`TypeScript`, `React.js`, `Redux`, `Material UI v4`, `JSS`). The system shipped as a set of `Docker` containers hosted on managed `Kubernetes` cloud service from DigitalOcean. The project was created from ground zero. Nowadays it takes important part in company's business processes acting as a tool for staff members that using it on desktop, tablet and sometimes mobile (even though that wasn't a tech requirement). 
+Worked as contractor on development of the internal corporate IT system for the company under NDA. The system consists of backend service (`TypeScript`, `Node.js`, `Loopback 4`, `PostgreSQL`, `Redis`) and Progressive Web App built as SPA (`TypeScript`, `React.js`, `Redux`, `Material UI v4`, `JSS`). The system shipped as a set of `Docker` containers hosted on managed `Kubernetes` cloud service from DigitalOcean. The project was created from ground zero. Nowadays it takes important part in company's business processes acting as a tool for staff members that using it on desktop, tablet and mobile. 
 
 ### January 2019 - May 2020, Full Stack Web Developer
 Telegram Bots (`PHP/MySQL`) & websites (`WordPress/PHP/JavaScript/React/SCSS`).
@@ -26,11 +26,9 @@ Despite my main task was about sound recording and post production, that time I 
 During preparation for expected participation in VR project, had learned basics of `C#` for `Unity Engine`: creating 3D environment, integrate `Oculus SDK` for VR spatial sound, code to establish desired sound space behavior.
 
 ### June 2016 - January 2017, Web Developer
-
 `JS/PHP/WordPress/HTML/CSS`
 Creating the website about EVs for the dealer company.
 
-### June 2015 - June 2016, Founder: Web Developer, System architect etc.
-
+### June 2015 - June 2016, Founder, Web Developer, System architect
 `HTML/CSS/JavaScript/PHP`
 Creating the website for electric vehicles popularization and lead generation for EV dealers. Development of the interactive web pages (several calculators & info-application). System architecture and MVP modeling. Research tech, infrastructure & business requirements.

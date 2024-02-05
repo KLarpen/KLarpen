@@ -1,5 +1,4 @@
-<code>⚪ Community: Metarhia</code>
-<code>👷 Specialty: Software Engineer / Full stack (Backend primary) /  System Architect</code><br>
+<code>👷 Specialty: Backend Node.js Software Engineer with Full Stack and System Architect experience</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🎓 [Education](EDUCATION.md)</code>
@@ -17,7 +16,7 @@
 
 #### Backend
 - current <code>Node.js, Loopback 4, OAS, Postman</code>
-- upcoming <code>Metarhia stack, Prisma, Knex, BullMQ, Fastify, RabbitMQ</code>
+- upcoming <code>NestJS, Fastify, Prisma, Knex, Bull & BullMQ, RabbitMQ, Metarhia</code>
 
 #### Databases
 - current <code>PostgreSQL, Redis</code>
@@ -37,6 +36,4 @@
 - upcoming <code>AWS, Traeffic, Istio, Linkerd</code>
 
 <code>GitLab: [@KLarpen](https://gitlab.com/KLarpen)</code>
-<code>💬 telegram: [@KLarpen](https://t.me/KLarpen)</code>
 <code>💬 LinkedIn: [Vladyslav Karpenko](https://www.linkedin.com/in/klarpen/)</code>
-<code>🪙 [Rates](RATES.md)</code>
